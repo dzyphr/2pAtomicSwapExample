@@ -6,7 +6,7 @@
 
 #### Free Software and Open to contributions 
 
-###### Potetial Contributions:
+###### Potential Contributions:
 
 Other language implementations
 
