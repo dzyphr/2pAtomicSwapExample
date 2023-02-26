@@ -1,5 +1,7 @@
 # 2p Atomic Swap Example
 
+An implementation of https://docs.grin.mw/wiki/transactions/contracts/#atomic-swap
+
 ## For helping people reason about the underlying cryptographic protocol behind atomic swaps
 
 #### So far only a python implementation, probably rust next.
