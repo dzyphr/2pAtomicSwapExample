@@ -14,5 +14,5 @@ Other shell/terminal managers for start.sh (currently included: gnome-terminal)
 
 Detailing Timelock parameters
 
-Implementations with different elliptivc curves or libraries
+Implementations with different elliptic curves or libraries
 
